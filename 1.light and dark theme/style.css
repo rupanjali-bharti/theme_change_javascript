@@ -1,0 +1,26 @@
+.div{
+    margin: 50px;
+}
+
+.theme{
+    position: absolute;
+    left:70%;
+}
+#btn{
+    height: 40px;
+    width: 140px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+p{
+    font-size: 30px;
+}
+#btn:hover{
+    background-color: rgb(46, 46, 46);
+}
+
+h1,h3{
+    text-align: left;
+    font-size: 2rem;
+}
